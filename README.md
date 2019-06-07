@@ -1,2 +1,2 @@
 # conexaoNodeSQL
-This code connect node with sql server.
+This is a beafitul code conect Node.js with SQL
